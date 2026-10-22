@@ -1,12 +1,12 @@
-# ZWeb
+# ZWebView
 
-Visor de páginas HTML para Android basado en WebView.
+ZWebView is an Android application powered by the native WebView engine, designed to load and display HTML pages. Its goal is to provide a lightweight and simple environment for exploring web content, testing HTML files, and experimenting with web technologies directly on Android.
 
-## Estructura
+## Project Structure
 
-- "APK/": código fuente y archivos necesarios para compilar la aplicación.
-- "GitHubReleases/APK/": APK preparados para publicar en GitHub Releases.
+- `APK/`: Application source code, resources, and build files.
+- `GitHubReleases/APK/`: APK files prepared for GitHub Releases.
 
-## Estado
+## Status
 
-En desarrollo. La primera versión aún no está publicada.
+Currently in development. The first version has not been released yet.
